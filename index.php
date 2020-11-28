@@ -7,6 +7,7 @@
 </head>
 <body>
 	<h1>MI9999 index.php</h1>
+	<h2>Cambio 2</h2>
 	<?php
 		echo "<p>".date("d-m-Y h:i:s")."</p>";
 	?>
